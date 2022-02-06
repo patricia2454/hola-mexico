@@ -1,5 +1,5 @@
-# hola-mexico
-Mi primer repositorio
+# Hola Mexico
+Mi primera actividad.
 
 Autor: Patricia Méndez
 Fecha: 5 de febrero del 2022
